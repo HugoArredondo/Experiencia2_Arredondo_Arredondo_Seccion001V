@@ -10,7 +10,35 @@ h2, h3, h4, h5, h6{
     font-weight: 700;
 }
 
-/**/
+.titulo3{
+    background-color: orange;
+    color: black;
+    font-family: 'Lobster', cursive;
+    font-size: 55px;
+    font-weight: 400;
+}
+
+/*Formularios*/
+
+.error-control {
+    border: 1px solid red;
+}
+
+label.error {
+    color: red;
+    width: 300px;
+    font-size: 0.8em;
+    margin-top: -5px;
+    margin-bottom: 10px;
+}
+
+.etiqueta{
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin-right: 10px;
+}
+
 /*Navegador*/
 
 .navbar{
